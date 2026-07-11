@@ -6,21 +6,7 @@ void main() {
   ///Roaa Hisham
 }
 /// Zeina Wael Ahmed
-///hello zeina
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
-///
+/// hello zeina
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
